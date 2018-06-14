@@ -23,7 +23,7 @@ const float fanTempLo = 22.85;
 
 // Grovestream setup
 char gsDomain[] = "grovestreams.com";                            // GroveStreams Domain
-String gsApiKey = "714bbcad-b29b-3770-b6b1-2a9b57dbd91b";        // Grovestreams API Key
+String gsApiKey = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";        // Grovestreams API Key
 String gsComponentID = "Arduino";                                // Grovestreams Component ID
 const unsigned long gsUpdateFrequency = 900000;                  // GroveStreams update frequency 15min
 unsigned long gsLastSuccessfulUploadTime = 0;                    // Timer for interval data streams
